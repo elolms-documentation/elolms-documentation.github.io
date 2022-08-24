@@ -1,48 +1,48 @@
 {
-  "/docusaurus-git-pages/vi/markdown-page-5fd": {
+  "/vi/markdown-page-bd6": {
     "__comp": "1f391b9e",
     "__context": {
-      "plugin": "7a6e8864"
+      "plugin": "79e72060"
     },
     "content": "393be207"
   },
-  "/docusaurus-git-pages/vi/my-markdown-page-8cc": {
+  "/vi/my-markdown-page-92a": {
     "__comp": "1f391b9e",
     "__context": {
-      "plugin": "7a6e8864"
+      "plugin": "79e72060"
     },
     "content": "03181aef"
   },
-  "/docusaurus-git-pages/vi/my-react-page-807": {
+  "/vi/my-react-page-9fe": {
     "__comp": "f8551aab",
     "__context": {
-      "plugin": "7a6e8864"
+      "plugin": "79e72060"
     },
     "config": "5e9f5e1a"
   },
-  "/docusaurus-git-pages/vi/docs-69b": {
+  "/vi/docs-39e": {
     "__comp": "1be78505",
     "__context": {
-      "plugin": "83928d9e"
+      "plugin": "b4ad8e81"
     },
     "versionMetadata": "935f2afb"
   },
-  "/docusaurus-git-pages/vi/docs/intro-9cd": {
+  "/vi/docs/intro-da6": {
     "__comp": "17896441",
     "content": "fecb6510"
   },
-  "/docusaurus-git-pages/vi/docs/intro2-aa0": {
+  "/vi/docs/intro2-d62": {
     "__comp": "17896441",
     "content": "53882eb2"
   },
-  "/docusaurus-git-pages/vi/docs/intro3-cb0": {
+  "/vi/docs/intro3-d56": {
     "__comp": "17896441",
     "content": "7725699e"
   },
-  "/docusaurus-git-pages/vi/-812": {
+  "/vi/-b15": {
     "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "7a6e8864"
+      "plugin": "79e72060"
     },
     "config": "5e9f5e1a"
   }

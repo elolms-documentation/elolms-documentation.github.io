@@ -6,7 +6,7 @@
   "source": "@site/docs/intro2.md",
   "sourceDirName": ".",
   "slug": "/intro2",
-  "permalink": "/docusaurus-git-pages/docs/intro2",
+  "permalink": "/docs/intro2",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Tutorial Intro 1",
-    "permalink": "/docusaurus-git-pages/docs/intro"
+    "permalink": "/docs/intro"
   },
   "next": {
     "title": "Tutorial Intro 3",
-    "permalink": "/docusaurus-git-pages/docs/intro3"
+    "permalink": "/docs/intro3"
   }
 }

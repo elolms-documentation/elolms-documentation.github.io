@@ -3,47 +3,47 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/docusaurus-git-pages/vi/markdown-page',
-    component: ComponentCreator('/docusaurus-git-pages/vi/markdown-page', '5fd'),
+    path: '/vi/markdown-page',
+    component: ComponentCreator('/vi/markdown-page', 'bd6'),
     exact: true
   },
   {
-    path: '/docusaurus-git-pages/vi/my-markdown-page',
-    component: ComponentCreator('/docusaurus-git-pages/vi/my-markdown-page', '8cc'),
+    path: '/vi/my-markdown-page',
+    component: ComponentCreator('/vi/my-markdown-page', '92a'),
     exact: true
   },
   {
-    path: '/docusaurus-git-pages/vi/my-react-page',
-    component: ComponentCreator('/docusaurus-git-pages/vi/my-react-page', '807'),
+    path: '/vi/my-react-page',
+    component: ComponentCreator('/vi/my-react-page', '9fe'),
     exact: true
   },
   {
-    path: '/docusaurus-git-pages/vi/docs',
-    component: ComponentCreator('/docusaurus-git-pages/vi/docs', '69b'),
+    path: '/vi/docs',
+    component: ComponentCreator('/vi/docs', '39e'),
     routes: [
       {
-        path: '/docusaurus-git-pages/vi/docs/intro',
-        component: ComponentCreator('/docusaurus-git-pages/vi/docs/intro', '9cd'),
+        path: '/vi/docs/intro',
+        component: ComponentCreator('/vi/docs/intro', 'da6'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docusaurus-git-pages/vi/docs/intro2',
-        component: ComponentCreator('/docusaurus-git-pages/vi/docs/intro2', 'aa0'),
+        path: '/vi/docs/intro2',
+        component: ComponentCreator('/vi/docs/intro2', 'd62'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docusaurus-git-pages/vi/docs/intro3',
-        component: ComponentCreator('/docusaurus-git-pages/vi/docs/intro3', 'cb0'),
+        path: '/vi/docs/intro3',
+        component: ComponentCreator('/vi/docs/intro3', 'd56'),
         exact: true,
         sidebar: "docs"
       }
     ]
   },
   {
-    path: '/docusaurus-git-pages/vi/',
-    component: ComponentCreator('/docusaurus-git-pages/vi/', '812'),
+    path: '/vi/',
+    component: ComponentCreator('/vi/', 'b15'),
     exact: true
   },
   {

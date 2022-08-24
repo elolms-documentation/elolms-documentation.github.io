@@ -7,12 +7,12 @@ export default {
   "title": "EloLMS Documentation",
   "tagline": "EloLMS Documentation are cool",
   "url": "https://github.com",
-  "baseUrl": "/docusaurus-git-pages/vi/",
+  "baseUrl": "/vi/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "openuniveristy",
-  "projectName": "elolms-documentation",
+  "organizationName": "elolms-documentation",
+  "projectName": "elolms-documentation.github.io",
   "deploymentBranch": "gh-pages",
   "i18n": {
     "defaultLocale": "en",
@@ -28,11 +28,11 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/var/www/html/eloguide/docusaurus-git-pages/sidebars.js"
+          "sidebarPath": "/var/www/html/eloguide/elolms-documentation.github.io/sidebars.js"
         },
         "blog": false,
         "theme": {
-          "customCss": "/var/www/html/eloguide/docusaurus-git-pages/src/css/custom.css"
+          "customCss": "/var/www/html/eloguide/elolms-documentation.github.io/src/css/custom.css"
         }
       }
     ]

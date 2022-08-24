@@ -6,7 +6,7 @@
   "source": "@site/i18n/vi/docusaurus-plugin-content-docs/current/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docusaurus-git-pages/vi/docs/intro",
+  "permalink": "/vi/docs/intro",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,6 +17,6 @@
   "sidebar": "docs",
   "next": {
     "title": "Hướng dẫn 2",
-    "permalink": "/docusaurus-git-pages/vi/docs/intro2"
+    "permalink": "/vi/docs/intro2"
   }
 }

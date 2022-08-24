@@ -11,19 +11,19 @@
       {
         "type": "link",
         "label": "Hướng dẫn 1",
-        "href": "/docusaurus-git-pages/vi/docs/intro",
+        "href": "/vi/docs/intro",
         "docId": "intro"
       },
       {
         "type": "link",
         "label": "Hướng dẫn 2",
-        "href": "/docusaurus-git-pages/vi/docs/intro2",
+        "href": "/vi/docs/intro2",
         "docId": "intro2"
       },
       {
         "type": "link",
         "label": "Hướng dẫn 3",
-        "href": "/docusaurus-git-pages/vi/docs/intro3",
+        "href": "/vi/docs/intro3",
         "docId": "intro3"
       }
     ],
@@ -36,19 +36,19 @@
           {
             "type": "link",
             "label": "Hướng dẫn 1",
-            "href": "/docusaurus-git-pages/vi/docs/intro",
+            "href": "/vi/docs/intro",
             "docId": "intro"
           },
           {
             "type": "link",
             "label": "Hướng dẫn 2",
-            "href": "/docusaurus-git-pages/vi/docs/intro2",
+            "href": "/vi/docs/intro2",
             "docId": "intro2"
           },
           {
             "type": "link",
             "label": "Hướng dẫn 3",
-            "href": "/docusaurus-git-pages/vi/docs/intro3",
+            "href": "/vi/docs/intro3",
             "docId": "intro3"
           }
         ],
