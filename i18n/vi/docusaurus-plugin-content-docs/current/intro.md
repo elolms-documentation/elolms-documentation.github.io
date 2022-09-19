@@ -22,16 +22,16 @@ Sinh viên nhấn nút __Gửi câu trả lời của bạn__ để hoàn thành
 B1: Truy cập vào môn học  
 B2: Bật chế độ chỉnh sửa môn học 
 ![](/img/feedbacks_document/vi/vi-feedbackeditor-step2.png)  
-B3: Nhấn nút __Add an activity or resource__ để thêm hoạt động mới
-![](/img/feedbacks_document/vi/vi-feedbackeditor-step3.png)
+B3: Nhấn nút __Add an activity or resource__ để thêm hoạt động mới  
+![](/img/feedbacks_document/vi/vi-feedbackeditor-step3.png)  
 B4: Tại bảng chọn Thêm hoạt động nhấn chọn hoạt động __Nhận xét__  
 ![](/img/feedbacks_document/vi/vi-feedbackeditor-step4.png)  
 ![](/img/feedbacks_document/vi/vi-feedbackeditor-step4_1.png)  
 B5: Cài đặt cho hoạt động  
 __*Cài đặt chung*__  
-Điền _Tên_ và _Mô tả_ cho hoạt động  
++   Điền _Tên_ và _Mô tả_ cho hoạt động  
 ![](/img/feedbacks_document/vi/vi-feedbackeditor-step5_1.png)  
-__*Câu hỏi và bài nộp*__
+__*Câu hỏi và bài nộp*__  
 +   Lưu tên người dùng: Chọn _Tên người dùng sẽ được ghi lại và hiển thị kèm với câu trả lời_
 +   Cho phép nộp nhiều: Chọn _Không_  
 +   Kích hoạt thông báo nộp: Chọn _Không_
@@ -70,7 +70,8 @@ Ví dụ:
 >3/  
 >4/  
 >5/  
-![](/img/feedbacks_document/vi/vi-feedback-addquestion-quiz.png)
+
+![](/img/feedbacks_document/vi/vi-feedback-addquestion-quiz.png)  
 __Câu trả lời dài__ :   
 +   Được yêu cầu (Bắt buộc): Không tích chọn
 +   Câu hỏi: Nhập nội dung câu hỏi  
@@ -93,8 +94,9 @@ B2: Nhấn chọn __Xóa các câu hỏi cũ__ hoặc __Thêm sau các câu hỏ
 +   ***Thêm sau các câu hỏi cũ***   : Thêm các câu hỏi mới vào phía sau các câu hỏi cũ  
 ![](/img/feedbacks_document/vi/vi-feedback-template-save.png)  
 B3: Nhấn chọn Lưu những thay đổi  
+
 Lưu mẫu câu hỏi :  
-Hệ thống sẽ lưu các câu hỏi trong bảng câu hỏi hiện tại thành một mẫu mới
+Hệ thống sẽ lưu các câu hỏi trong bảng câu hỏi hiện tại thành một mẫu mới  
 B1: Ở phần __Lưu các câu hỏi này theo dạng mẫu mới__  
 B2: Đặt tên cho mẫu câu hỏi và nhấn chọn Công khai( Mẫu câu hỏi sẽ có thể dùng cho mọi môn học)  
 ![](/img/feedbacks_document/vi/vi-feedback-template-create.png)  
