@@ -15,12 +15,12 @@ How does it work?
 Student view
 Students click on the Feedback icon in the course to access the activity and then must click the button Answer the questions. (Note: the magnifying glass icon is only for previewing, not for submitting responses.)
 
-<img src='static/files/feedbacks_document/student-view-activities.png'></img>
+<img src='/static/files/feedbacks_document/student-view-activities.png'></img>
 
 Teacher view
 Teachers see the Feedback settings tabs as well as an Analysis tab and Show responses tab. The results may be exported to a spreadsheet program .
 From the Analysis tab they see a graphical (and text) display of responses.
 From the Show responses tab they see individual responses in detail.
 
-<img src='static/files/feedbacks_document/teacher-view.png'></img>
+<img src='/static/files/feedbacks_document/teacher-view.png'></img>
 
