@@ -2,5 +2,9 @@
   "version.label": {
     "message": "Phiên bản kế tiếp",
     "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.Feedback": {
+    "message": "Hoạt động Nhận xét",
+    "description": "The label for category Feedback in sidebar docsSidebar"
   }
 }
