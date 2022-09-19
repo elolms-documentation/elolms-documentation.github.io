@@ -109,9 +109,9 @@
     "135": {
       "js": [
         {
-          "file": "assets/js/fecb6510.ed46fa6b.js",
-          "hash": "6a02cc1980a9f60e",
-          "publicPath": "/vi/assets/js/fecb6510.ed46fa6b.js"
+          "file": "assets/js/fecb6510.d42c552e.js",
+          "hash": "5b0ad45624a9a440",
+          "publicPath": "/vi/assets/js/fecb6510.d42c552e.js"
         }
       ]
     },
@@ -136,9 +136,9 @@
     "303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.8fa20f80.js",
-          "hash": "4d7cf9f5a72be0c5",
-          "publicPath": "/vi/assets/js/runtime~main.8fa20f80.js"
+          "file": "assets/js/runtime~main.c6fba9b9.js",
+          "hash": "e41b0b47cd3c178e",
+          "publicPath": "/vi/assets/js/runtime~main.c6fba9b9.js"
         }
       ]
     },

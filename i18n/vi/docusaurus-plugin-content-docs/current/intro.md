@@ -92,7 +92,9 @@ B1: Ở phần __Dùng một mẫu__ nhấn chọn mẫu muôn sử dụng
 B2: Nhấn chọn __Xóa các câu hỏi cũ__ hoặc __Thêm sau các câu hỏi cũ__  
 +   __*Xóa các câu hỏi cũ*__   : Xóa các câu hỏi củ và thêm vào các câu hỏi mới từ trong mẫu có sẵn  
 +   ***Thêm sau các câu hỏi cũ***   : Thêm các câu hỏi mới vào phía sau các câu hỏi cũ  
+
 ![](/img/feedbacks_document/vi/vi-feedback-template-save.png)  
+
 B3: Nhấn chọn Lưu những thay đổi  
 
 Lưu mẫu câu hỏi :  
@@ -100,5 +102,6 @@ Hệ thống sẽ lưu các câu hỏi trong bảng câu hỏi hiện tại thà
 B1: Ở phần __Lưu các câu hỏi này theo dạng mẫu mới__  
 B2: Đặt tên cho mẫu câu hỏi và nhấn chọn Công khai( Mẫu câu hỏi sẽ có thể dùng cho mọi môn học)  
 ![](/img/feedbacks_document/vi/vi-feedback-template-create.png)  
+
 B3: Nhấn nút __Lưu về dưới dạng câu hỏi mới__  
 
