@@ -1,28 +1,28 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/vi/docs",
       "versions": [
         {
           "name": "current",
-          "label": "Next",
+          "label": "Phiên bản kế tiếp",
           "isLast": true,
-          "path": "/docs",
+          "path": "/vi/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/vi/docs/intro",
               "sidebar": "docs"
             },
             {
               "id": "intro2",
-              "path": "/docs/intro2",
+              "path": "/vi/docs/intro2",
               "sidebar": "docs"
             },
             {
               "id": "intro3",
-              "path": "/docs/intro3",
+              "path": "/vi/docs/intro3",
               "sidebar": "docs"
             }
           ],
@@ -30,13 +30,13 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/vi/docs/intro",
                 "label": "intro"
               }
             },
             "docs": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/vi/docs/intro",
                 "label": "intro"
               }
             }

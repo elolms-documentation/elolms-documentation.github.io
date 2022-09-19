@@ -1,7 +1,7 @@
 {
   "pluginId": "default",
   "version": "current",
-  "label": "Next",
+  "label": "Phiên bản kế tiếp",
   "banner": null,
   "badge": false,
   "className": "docs-version-current",
@@ -11,19 +11,19 @@
       {
         "type": "link",
         "label": "Hoạt động Nhận xét",
-        "href": "/docs/intro",
+        "href": "/vi/docs/intro",
         "docId": "intro"
       },
       {
         "type": "link",
-        "label": "Tutorial Intro 2",
-        "href": "/docs/intro2",
+        "label": "Hướng dẫn 2",
+        "href": "/vi/docs/intro2",
         "docId": "intro2"
       },
       {
         "type": "link",
-        "label": "Tutorial Intro 3",
-        "href": "/docs/intro3",
+        "label": "Hướng dẫn 3",
+        "href": "/vi/docs/intro3",
         "docId": "intro3"
       }
     ],
@@ -36,19 +36,19 @@
           {
             "type": "link",
             "label": "Hoạt động Nhận xét",
-            "href": "/docs/intro",
+            "href": "/vi/docs/intro",
             "docId": "intro"
           },
           {
             "type": "link",
-            "label": "Tutorial Intro 2",
-            "href": "/docs/intro2",
+            "label": "Hướng dẫn 2",
+            "href": "/vi/docs/intro2",
             "docId": "intro2"
           },
           {
             "type": "link",
-            "label": "Tutorial Intro 3",
-            "href": "/docs/intro3",
+            "label": "Hướng dẫn 3",
+            "href": "/vi/docs/intro3",
             "docId": "intro3"
           }
         ],
@@ -65,14 +65,14 @@
     },
     "intro2": {
       "id": "intro2",
-      "title": "Tutorial Intro 2",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "title": "Hướng dẫn 2",
+      "description": "Hãy cùng khám phá Docusaurus trong vòng chưa đầy 5 phút.",
       "sidebar": "docs"
     },
     "intro3": {
       "id": "intro3",
-      "title": "Tutorial Intro 3",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "title": "Hướng dẫn 3",
+      "description": "Hãy cùng khám phá Docusaurus trong vòng chưa đầy 5 phút.",
       "sidebar": "docs"
     }
   }

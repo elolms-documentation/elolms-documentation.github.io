@@ -7,7 +7,7 @@ export default {
   "title": "EloLMS Documentation",
   "tagline": "EloLMS Documentation are cool",
   "url": "https://github.com",
-  "baseUrl": "/",
+  "baseUrl": "/vi/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
