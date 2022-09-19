@@ -2,46 +2,25 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro 1
+# Hoạt động Feedback
+The Feedback activity allows you to create and conduct surveys to collect feedback. Unlike the Survey tool it allows you to write your own questions, rather than choose from a list of pre-written questions and unlike the Quiz tool, you can create non-graded questions. The Feedback activity is ideal for course or teacher evaluations.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# Cài đặt cơ bản
+In a course, with the editing turned on, choose 'Feedback' from the activity chooser.
+Give it a name and if required, a description
+Expand the other sections to define the settings you want, in particular Question and Submission settings and what to display After submission.
+Click Save and display and from the Edit questions tab, Add question drop down, add the questions you want.
 
-## Getting Started
+How does it work?
+Student view
+Students click on the Feedback icon in the course to access the activity and then must click the button Answer the questions. (Note: the magnifying glass icon is only for previewing, not for submitting responses.)
 
-Get started by **creating a new site**.
+<img src='static/files/feedbacks_document/student-view-activities.png'></img>
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Teacher view
+Teachers see the Feedback settings tabs as well as an Analysis tab and Show responses tab. The results may be exported to a spreadsheet program .
+From the Analysis tab they see a graphical (and text) display of responses.
+From the Show responses tab they see individual responses in detail.
 
-### What you'll need
+<img src='static/files/feedbacks_document/teacher-view.png'></img>
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.

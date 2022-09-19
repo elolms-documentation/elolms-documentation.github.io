@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Hướng dẫn 1",
-  "description": "Hãy cùng khám phá Docusaurus trong vòng chưa đầy 5 phút.",
+  "title": "Hoạt động Feedback",
+  "description": "The Feedback activity allows you to create and conduct surveys to collect feedback. Unlike the Survey tool it allows you to write your own questions, rather than choose from a list of pre-written questions and unlike the Quiz tool, you can create non-graded questions. The Feedback activity is ideal for course or teacher evaluations.",
   "source": "@site/i18n/vi/docusaurus-plugin-content-docs/current/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
