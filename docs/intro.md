@@ -10,7 +10,7 @@ Sinh viên nhấn vào hoạt động Nhận xét từ môn học để truy c�
 ![](/img/feedbacks_document/vi/vi-studentview-incourse.png)  
 Ở giao diện hoạt động feed back sinh viên nhấn vào nút __Trả lời câu hỏi__ để thực hiện phản hồi.  
 ![](/img/feedbacks_document/vi/vi-studentview-activities.png)  
-_*** Lưu ý: Biểu tượng kính lúp phóng to chỉ dùng để xem trước các câu hỏi trong bảng khảo sát_ ![](/img/feedbacks_document/icon-preview.png)  
+_*** Lưu ý: Biểu tượng kính lúp phóng to chỉ dùng để xem trước các câu hỏi trong bảng khảo sát_  
 Giao diện thực hiện hoạt động:  
 ![](/img/feedbacks_document/vi/vi-studentview-doingactivities.png)  
 ![](/img/feedbacks_document/vi/vi-studentview-doingactivities2.png)  
