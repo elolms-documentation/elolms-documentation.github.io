@@ -3,47 +3,47 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/vi/markdown-page',
-    component: ComponentCreator('/vi/markdown-page', 'bd6'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', '5c2'),
     exact: true
   },
   {
-    path: '/vi/my-markdown-page',
-    component: ComponentCreator('/vi/my-markdown-page', '92a'),
+    path: '/my-markdown-page',
+    component: ComponentCreator('/my-markdown-page', '909'),
     exact: true
   },
   {
-    path: '/vi/my-react-page',
-    component: ComponentCreator('/vi/my-react-page', '9fe'),
+    path: '/my-react-page',
+    component: ComponentCreator('/my-react-page', '6e6'),
     exact: true
   },
   {
-    path: '/vi/docs',
-    component: ComponentCreator('/vi/docs', '39e'),
+    path: '/docs',
+    component: ComponentCreator('/docs', '68c'),
     routes: [
       {
-        path: '/vi/docs/intro',
-        component: ComponentCreator('/vi/docs/intro', 'da6'),
+        path: '/docs/intro',
+        component: ComponentCreator('/docs/intro', '6e9'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/vi/docs/intro2',
-        component: ComponentCreator('/vi/docs/intro2', 'd62'),
+        path: '/docs/intro2',
+        component: ComponentCreator('/docs/intro2', 'deb'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/vi/docs/intro3',
-        component: ComponentCreator('/vi/docs/intro3', 'd56'),
+        path: '/docs/intro3',
+        component: ComponentCreator('/docs/intro3', '9db'),
         exact: true,
         sidebar: "docs"
       }
     ]
   },
   {
-    path: '/vi/',
-    component: ComponentCreator('/vi/', 'b15'),
+    path: '/',
+    component: ComponentCreator('/', 'fa1'),
     exact: true
   },
   {

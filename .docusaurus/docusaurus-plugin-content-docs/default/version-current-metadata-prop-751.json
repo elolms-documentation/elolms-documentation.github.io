@@ -1,7 +1,7 @@
 {
   "pluginId": "default",
   "version": "current",
-  "label": "Phiên bản kế tiếp",
+  "label": "Next",
   "banner": null,
   "badge": false,
   "className": "docs-version-current",
@@ -10,20 +10,20 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Hoạt động Feedback",
-        "href": "/vi/docs/intro",
+        "label": "Hoạt động Nhận xét",
+        "href": "/docs/intro",
         "docId": "intro"
       },
       {
         "type": "link",
-        "label": "Hướng dẫn 2",
-        "href": "/vi/docs/intro2",
+        "label": "Tutorial Intro 2",
+        "href": "/docs/intro2",
         "docId": "intro2"
       },
       {
         "type": "link",
-        "label": "Hướng dẫn 3",
-        "href": "/vi/docs/intro3",
+        "label": "Tutorial Intro 3",
+        "href": "/docs/intro3",
         "docId": "intro3"
       }
     ],
@@ -35,20 +35,20 @@
         "items": [
           {
             "type": "link",
-            "label": "Hoạt động Feedback",
-            "href": "/vi/docs/intro",
+            "label": "Hoạt động Nhận xét",
+            "href": "/docs/intro",
             "docId": "intro"
           },
           {
             "type": "link",
-            "label": "Hướng dẫn 2",
-            "href": "/vi/docs/intro2",
+            "label": "Tutorial Intro 2",
+            "href": "/docs/intro2",
             "docId": "intro2"
           },
           {
             "type": "link",
-            "label": "Hướng dẫn 3",
-            "href": "/vi/docs/intro3",
+            "label": "Tutorial Intro 3",
+            "href": "/docs/intro3",
             "docId": "intro3"
           }
         ],
@@ -59,20 +59,20 @@
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "Hoạt động Feedback",
-      "description": "The Feedback activity allows you to create and conduct surveys to collect feedback. Unlike the Survey tool it allows you to write your own questions, rather than choose from a list of pre-written questions and unlike the Quiz tool, you can create non-graded questions. The Feedback activity is ideal for course or teacher evaluations.",
+      "title": "Hoạt động Nhận xét",
+      "description": "Hoạt động Nhận xét cho phép tạo và thực hiện các cuộc khảo sát để thu thập phản hồi của sinh viên",
       "sidebar": "docs"
     },
     "intro2": {
       "id": "intro2",
-      "title": "Hướng dẫn 2",
-      "description": "Hãy cùng khám phá Docusaurus trong vòng chưa đầy 5 phút.",
+      "title": "Tutorial Intro 2",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "docs"
     },
     "intro3": {
       "id": "intro3",
-      "title": "Hướng dẫn 3",
-      "description": "Hãy cùng khám phá Docusaurus trong vòng chưa đầy 5 phút.",
+      "title": "Tutorial Intro 3",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "docs"
     }
   }
